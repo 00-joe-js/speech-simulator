@@ -1,3 +1,4 @@
+// TODO: update this speech
 const linesOfASpeech = [
     "I am Joe",
     "I have a dog named Penny",
