@@ -2,7 +2,7 @@
 const linesOfASpeech = [
     "I am Joe",
     "I have a dog named Penny",
-    "She is pretty cute"
+    "She is really cute"
 ];
 
 let i = 0;
